@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Menschen verschiedener Generationen verbringen den Abend gemeinsam in einer grünen, lebendigen Gemeinschaft." width="100%">
+  <img src="assets/banner.jpg" alt="Menschen verschiedener Generationen verbringen den Abend gemeinsam in einer grünen, lebendigen Gemeinschaft. / People of different generations spend the evening together in a green, lively community." width="100%">
 </p>
 
 <p align="center">
@@ -11,30 +11,40 @@
 
 <p align="center">
   <strong>Eine Welt, in der Menschen frei, sicher und verbunden leben können.</strong><br>
-  N.E.X.U.S. ist der Versuch, diese Welt gemeinsam zu bauen – eine Welt, in der Wirtschaft, Technologie und Macht wieder dem Leben dienen.
+  <strong>A world where people can live free, secure and connected.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.nexus-terminal.org">Webseite</a> ·
+  <a href="https://www.nexus-terminal.org">Webseite / Website</a> ·
   <a href="https://community.nexus-terminal.org/">Community</a> ·
-  <a href="https://github.com/nexus-united-species/terminal/releases">OneApp herunterladen</a> ·
-  <a href="https://github.com/nexus-united-species/terminal/discussions">Diskussionen</a> ·
+  <a href="https://github.com/nexus-united-species/terminal/releases">OneApp Download</a> ·
+  <a href="https://github.com/nexus-united-species/terminal/discussions">Diskussionen / Discussions</a> ·
   <a href="https://t.me/NexusProjectOfficial">Telegram</a>
+</p>
+
+<p align="center">
+  <a href="#deutsch">🇩🇪 Deutsch</a> &nbsp;|&nbsp; <a href="#english">🇬🇧 English</a>
 </p>
 
 ---
 
-## Was wir hier bauen
+<a id="deutsch"></a>
 
-N.E.X.U.S. ist kein fertiges Gedankengebäude. Manches existiert bereits, anderes wird gerade erprobt. In dieser Organisation entsteht die **offene technische Grundlage** dafür – dezentral, offline-fähig und unter freien Lizenzen.
+## 🇩🇪 Deutsch
+
+N.E.X.U.S. ist der Versuch, eine Welt gemeinsam zu bauen, in der Wirtschaft, Technologie und Macht wieder dem Leben dienen. N.E.X.U.S. ist kein fertiges Gedankengebäude: Manches existiert bereits, anderes wird gerade erprobt.
+
+### Was wir hier bauen
+
+In dieser Organisation entsteht die **offene technische Grundlage** des Projekts – dezentral, offline-fähig und unter freien Lizenzen.
 
 | Projekt | Worum es geht | Status |
 |---|---|---|
-| **OneApp** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/terminal/releases) · Quellcode wird gerade für die Veröffentlichung vorbereitet |
+| **OneApp** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/terminal/releases) · Quellcode wird für die Veröffentlichung vorbereitet |
 | **HumHub-Erweiterungen** | Module, die wir für unsere eigene [Community-Plattform](https://community.nexus-terminal.org/) entwickelt haben – u. a. Gemeinschaftskarte, Übersetzen, Sprachnachrichten, Teilen und Mitgliedsanfragen. | in Vorbereitung |
 | **[terminal](https://github.com/nexus-united-species/terminal)** | Releases der OneApp, Diskussionen und Wiki. | aktiv |
 
-## Mitmachen
+### Mitmachen
 
 Du musst kein Entwickler sein, um beizutragen.
 
@@ -43,27 +53,47 @@ Du musst kein Entwickler sein, um beizutragen.
 - **Code beitragen:** Sobald die Repositories öffentlich sind, freuen wir uns über Pull Requests. Lies vorher den [Leitfaden für Beiträge](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md).
 - **Verstehen, worum es geht:** Der [Einstieg auf der Webseite](https://www.nexus-terminal.org/eLearning/index.html) erklärt N.E.X.U.S. Schritt für Schritt – ohne Fachsprache.
 
-## Grundsätze
+### Grundsätze
 
 - **Freie Software:** Code unter **AGPLv3**, Texte unter **CC BY-SA 4.0**.
-- **Daten gehören den Menschen:** keine Werbung, kein Tracking, Identität und Schlüssel bleiben auf dem eigenen Gerät.
+- **Daten gehören den Menschen:** keine Werbung, kein Tracking; Identität und Schlüssel bleiben auf dem eigenen Gerät.
 - **Ehrlich über den Stand:** Wir kennzeichnen klar, was Alpha ist, was erprobt wird und was noch Vision ist.
 - **Respektvoller Umgang:** siehe unseren [Verhaltenskodex](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
 
+<p align="right"><a href="#english">English ↓</a></p>
+
 ---
 
-<details>
-<summary><strong>🌍 English</strong></summary>
+<a id="english"></a>
 
-### A world where people can live free, secure and connected.
+## 🇬🇧 English
 
-N.E.X.U.S. is an attempt to build this world together – a world in which the economy, technology and power serve life again. It is not a finished system of ideas: some things already exist, others are being tested right now.
+N.E.X.U.S. is an attempt to build, together, a world in which the economy, technology and power serve life again. N.E.X.U.S. is not a finished system of ideas: some things already exist, others are being tested right now.
 
-This organization hosts the **open technical foundation** of the project – decentralized, offline-first and freely licensed:
+### What we are building here
 
-- **OneApp** – self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app, running over Nostr, LAN and Bluetooth. Alpha, [download](https://github.com/nexus-united-species/terminal/releases); the source code is being prepared for publication.
-- **HumHub extensions** – modules we built for our own [community platform](https://community.nexus-terminal.org/), such as a community map, translation, voice messages, sharing and membership requests. Coming soon.
+This organization hosts the **open technical foundation** of the project – decentralized, offline-first and freely licensed.
 
-Code is licensed under **AGPLv3**, texts under **CC BY-SA 4.0**. Learn more at [nexus-terminal.org/en](https://nexus-terminal.org/en/).
+| Project | What it is about | Status |
+|---|---|---|
+| **OneApp** | Self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app. Offline-first over Nostr, LAN and Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/terminal/releases) · source code is being prepared for publication |
+| **HumHub extensions** | Modules we built for our own [community platform](https://community.nexus-terminal.org/) – including a community map, translation, voice messages, sharing and membership requests. | coming soon |
+| **[terminal](https://github.com/nexus-united-species/terminal)** | OneApp releases, discussions and wiki. | active |
 
-</details>
+### Get involved
+
+You don't have to be a developer to contribute.
+
+- **Try it and report bugs:** Download the OneApp and tell us what you notice – in the [Discussions](https://github.com/nexus-united-species/terminal/discussions) or via the [bug report form](https://nexus-terminal.org/en/bugreport.html).
+- **Share ideas:** Exchange, circles and joint projects happen in our [community](https://community.nexus-terminal.org/).
+- **Contribute code:** Once the repositories are public, pull requests are very welcome. Please read the [contribution guide](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md) first.
+- **Understand what it's about:** The [introduction on our website](https://nexus-terminal.org/en/eLearning/index.html) explains N.E.X.U.S. step by step – no jargon.
+
+### Principles
+
+- **Free software:** code under **AGPLv3**, texts under **CC BY-SA 4.0**.
+- **Data belongs to people:** no ads, no tracking; identity and keys stay on your own device.
+- **Honest about the state:** we clearly mark what is alpha, what is being tested and what is still vision.
+- **Respectful conduct:** see our [Code of Conduct](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
+
+<p align="right"><a href="#deutsch">Deutsch ↑</a></p>

@@ -1,6 +1,10 @@
-# Hilfe & Support
+# Hilfe & Support / Help & Support
 
-*English below.*
+[🇩🇪 Deutsch](#-deutsch) | [🇬🇧 English](#-english)
+
+---
+
+## 🇩🇪 Deutsch
 
 | Anliegen | Wo du Hilfe bekommst |
 |---|---|
@@ -13,4 +17,13 @@
 
 ---
 
-**English:** Questions → [Discussions](https://github.com/nexus-united-species/terminal/discussions) · Bugs → an issue in the relevant repository · Community → [community.nexus-terminal.org](https://community.nexus-terminal.org/) · Security issues → privately, see [SECURITY.md](SECURITY.md).
+## 🇬🇧 English
+
+| Topic | Where to get help |
+|---|---|
+| Question about using the OneApp | [Discussions](https://github.com/nexus-united-species/terminal/discussions) |
+| Found a bug | An issue in the relevant repository or the [bug report form](https://nexus-terminal.org/en/bugreport.html) |
+| Exchange, circles, getting involved | [Community](https://community.nexus-terminal.org/) |
+| News | [Telegram channel](https://t.me/NexusProjectOfficial) |
+| What is N.E.X.U.S. about? | [Introduction on our website](https://nexus-terminal.org/en/eLearning/index.html) |
+| Security vulnerability | **not public** – see [SECURITY.md](SECURITY.md) |

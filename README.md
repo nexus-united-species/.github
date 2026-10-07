@@ -1,6 +1,12 @@
-# .github – Organisationsweite Dateien von N.E.X.U.S.
+# .github
 
-Dieses Repository enthält:
+[🇩🇪 Deutsch](#-deutsch) | [🇬🇧 English](#-english)
+
+---
+
+## 🇩🇪 Deutsch
+
+Organisationsweite Dateien von N.E.X.U.S.:
 
 - `profile/README.md` – die Startseite der Organisation auf [github.com/nexus-united-species](https://github.com/nexus-united-species)
 - Standarddateien, die GitHub für alle Repositories der Organisation übernimmt, sofern ein Repository keine eigene Fassung hat:
@@ -10,3 +16,18 @@ Dieses Repository enthält:
   - [SUPPORT.md](SUPPORT.md) – wo es Hilfe gibt
 
 Die Inhalte stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de). Der Verhaltenskodex basiert auf dem [Contributor Covenant 2.1](https://www.contributor-covenant.org/) (CC BY 4.0). Die Bilder stammen von [nexus-terminal.org](https://www.nexus-terminal.org).
+
+---
+
+## 🇬🇧 English
+
+Organization-wide files of N.E.X.U.S.:
+
+- `profile/README.md` – the organization's start page at [github.com/nexus-united-species](https://github.com/nexus-united-species)
+- Default files that GitHub applies to every repository of the organization unless a repository has its own version:
+  - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) – code of conduct
+  - [CONTRIBUTING.md](CONTRIBUTING.md) – contribution guide
+  - [SECURITY.md](SECURITY.md) – handling security vulnerabilities
+  - [SUPPORT.md](SUPPORT.md) – where to get help
+
+The contents are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The code of conduct is based on the [Contributor Covenant 2.1](https://www.contributor-covenant.org/) (CC BY 4.0). Images are from [nexus-terminal.org](https://www.nexus-terminal.org).

@@ -1,12 +1,16 @@
-# Sicherheitsrichtlinie
+# Sicherheitsrichtlinie / Security Policy
 
-*English summary below.*
+[🇩🇪 Deutsch](#-deutsch) | [🇬🇧 English](#-english)
 
-## Status der Software
+---
+
+## 🇩🇪 Deutsch
+
+### Status der Software
 
 Die Projekte dieser Organisation befinden sich überwiegend im **Alpha-Stadium**. Sie sind für Tests mit informierten Pionieren gedacht und noch **nicht** für schutzbedürftige oder sicherheitskritische Kommunikation freigegeben. Bekannte offene Punkte dokumentieren wir offen in den jeweiligen Repositories.
 
-## Sicherheitslücke melden
+### Sicherheitslücke melden
 
 **Bitte melde Sicherheitslücken nicht über öffentliche Issues oder Diskussionen.**
 
@@ -21,7 +25,7 @@ Hilfreich sind:
 - eine Beschreibung der Lücke und ihrer möglichen Auswirkung
 - Schritte zum Nachvollziehen, wenn möglich ein minimales Beispiel
 
-## Was du von uns erwarten kannst
+### Was du von uns erwarten kannst
 
 - Eine Eingangsbestätigung innerhalb von **7 Tagen**.
 - Eine ehrliche Einschätzung und laufende Information über den Stand.
@@ -31,6 +35,31 @@ Bitte gib uns angemessen Zeit für eine Behebung, bevor du Details veröffentlic
 
 ---
 
-## English summary
+## 🇬🇧 English
 
-Most projects in this organization are **alpha software** and not yet suitable for sensitive communication. **Do not report vulnerabilities in public issues.** Use GitHub's private vulnerability reporting (*Security → Report a vulnerability*) or email **nexus.blueprint@proton.me** with the subject `SECURITY`. We aim to acknowledge reports within 7 days and will keep you informed. Please allow reasonable time for a fix before public disclosure.
+### Software status
+
+The projects in this organization are mostly in the **alpha stage**. They are meant for testing by informed pioneers and are **not** yet approved for sensitive or security-critical communication. We document known open issues openly in the respective repositories.
+
+### Reporting a vulnerability
+
+**Please do not report security vulnerabilities through public issues or discussions.**
+
+Use one of these channels instead:
+
+1. **Privately via GitHub:** in the affected repository under *Security → Report a vulnerability* (where enabled).
+2. **By email:** to **nexus.blueprint@proton.me** with the subject `SECURITY`.
+
+Helpful information:
+
+- affected repository and version
+- a description of the vulnerability and its possible impact
+- steps to reproduce, ideally with a minimal example
+
+### What you can expect from us
+
+- An acknowledgment within **7 days**.
+- An honest assessment and ongoing updates on the status.
+- Credit as the discoverer in the changelog, if you wish.
+
+Please give us reasonable time to fix the issue before disclosing details publicly.
