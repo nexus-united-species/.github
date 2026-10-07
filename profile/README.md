@@ -19,7 +19,7 @@
   <a href="https://community.nexus-terminal.org/">Community</a> ·
   <a href="https://github.com/nexus-united-species/oneapp">OneApp</a> ·
   <a href="https://github.com/nexus-united-species/oneapp/releases">Download</a> ·
-  <a href="https://github.com/nexus-united-species/terminal/discussions">Diskussionen / Discussions</a> ·
+  <a href="https://github.com/nexus-united-species/oneapp/discussions">Diskussionen / Discussions</a> ·
   <a href="https://t.me/NexusProjectOfficial">Telegram</a>
 </p>
 
@@ -42,13 +42,13 @@ In dieser Organisation entsteht die **offene technische Grundlage** des Projekts
 |---|---|---|
 | **[OneApp](https://github.com/nexus-united-species/oneapp)** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Quellcode](https://github.com/nexus-united-species/oneapp) |
 | **HumHub-Erweiterungen** | Module, die wir für unsere eigene [Community-Plattform](https://community.nexus-terminal.org/) entwickelt haben – u. a. Gemeinschaftskarte, Übersetzen, Sprachnachrichten, Teilen und Mitgliedsanfragen. | in Vorbereitung |
-| **[terminal](https://github.com/nexus-united-species/terminal)** | Diskussionen, Wiki und Archiv älterer OneApp-Versionen. | aktiv |
+| **[terminal](https://github.com/nexus-united-species/terminal)** | Archiv aus der Gründungsphase und älterer OneApp-Versionen. | archiviert |
 
 ### Mitmachen
 
 Du musst kein Entwickler sein, um beizutragen.
 
-- **Ausprobieren und Fehler melden:** Lade die [OneApp](https://github.com/nexus-united-species/oneapp/releases) herunter und beschreibe, was dir auffällt – in den [Diskussionen](https://github.com/nexus-united-species/terminal/discussions) oder über das [Fehlerformular](https://www.nexus-terminal.org/bugreport.html).
+- **Ausprobieren und Fehler melden:** Lade die [OneApp](https://github.com/nexus-united-species/oneapp/releases) herunter und beschreibe, was dir auffällt – in den [Diskussionen](https://github.com/nexus-united-species/oneapp/discussions) oder über das [Fehlerformular](https://www.nexus-terminal.org/bugreport.html).
 - **Ideen einbringen:** Austausch, Kreise und gemeinsame Projekte finden in unserer [Community](https://community.nexus-terminal.org/) statt.
 - **Code beitragen:** Wir freuen uns über Pull Requests – zum Beispiel für die [OneApp](https://github.com/nexus-united-species/oneapp). Lies vorher den [Leitfaden für Beiträge](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md).
 - **Verstehen, worum es geht:** Der [Einstieg auf der Webseite](https://www.nexus-terminal.org/eLearning/index.html) erklärt N.E.X.U.S. Schritt für Schritt – ohne Fachsprache.
@@ -59,6 +59,10 @@ Du musst kein Entwickler sein, um beizutragen.
 - **Daten gehören den Menschen:** keine Werbung, kein Tracking; Identität und Schlüssel bleiben auf dem eigenen Gerät.
 - **Ehrlich über den Stand:** Wir kennzeichnen klar, was Alpha ist, was erprobt wird und was noch Vision ist.
 - **Respektvoller Umgang:** siehe unseren [Verhaltenskodex](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
+
+### Unterstützen
+
+N.E.X.U.S. ist unabhängig und wird von Menschen getragen, die daran glauben. Wenn du die Entwicklung unterstützen möchtest: [ko-fi.com/nexus_support](https://ko-fi.com/nexus_support).
 
 <p align="right"><a href="#-english">English ↓</a></p>
 
@@ -77,13 +81,13 @@ This organization hosts the **open technical foundation** of the project – dec
 |---|---|---|
 | **[OneApp](https://github.com/nexus-united-species/oneapp)** | Self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app. Offline-first over Nostr, LAN and Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Source code](https://github.com/nexus-united-species/oneapp) |
 | **HumHub extensions** | Modules we built for our own [community platform](https://community.nexus-terminal.org/) – including a community map, translation, voice messages, sharing and membership requests. | coming soon |
-| **[terminal](https://github.com/nexus-united-species/terminal)** | Discussions, wiki and archive of older OneApp versions. | active |
+| **[terminal](https://github.com/nexus-united-species/terminal)** | Archive from the founding phase and of older OneApp versions. | archived |
 
 ### Get involved
 
 You don't have to be a developer to contribute.
 
-- **Try it and report bugs:** Download the [OneApp](https://github.com/nexus-united-species/oneapp/releases) and tell us what you notice – in the [Discussions](https://github.com/nexus-united-species/terminal/discussions) or via the [bug report form](https://nexus-terminal.org/en/bugreport.html).
+- **Try it and report bugs:** Download the [OneApp](https://github.com/nexus-united-species/oneapp/releases) and tell us what you notice – in the [Discussions](https://github.com/nexus-united-species/oneapp/discussions) or via the [bug report form](https://nexus-terminal.org/en/bugreport.html).
 - **Share ideas:** Exchange, circles and joint projects happen in our [community](https://community.nexus-terminal.org/).
 - **Contribute code:** Pull requests are very welcome – for example for the [OneApp](https://github.com/nexus-united-species/oneapp). Please read the [contribution guide](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md) first.
 - **Understand what it's about:** The [introduction on our website](https://nexus-terminal.org/en/eLearning/index.html) explains N.E.X.U.S. step by step – no jargon.
@@ -95,4 +99,12 @@ You don't have to be a developer to contribute.
 - **Honest about the state:** we clearly mark what is alpha, what is being tested and what is still vision.
 - **Respectful conduct:** see our [Code of Conduct](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
 
+### Support us
+
+N.E.X.U.S. is independent and carried by people who believe in it. If you'd like to support its development: [ko-fi.com/nexus_support](https://ko-fi.com/nexus_support).
+
 <p align="right"><a href="#-deutsch">Deutsch ↑</a></p>
+
+---
+
+<p align="center"><em>„Wir warten nicht auf die Zukunft. Wir schreiben sie."</em><br><em>"We don't wait for the future. We write it."</em></p>
