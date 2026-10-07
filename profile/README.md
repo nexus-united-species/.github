@@ -23,12 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="#deutsch">🇩🇪 Deutsch</a> &nbsp;|&nbsp; <a href="#english">🇬🇧 English</a>
+  <a href="#-deutsch">🇩🇪 Deutsch</a> &nbsp;|&nbsp; <a href="#-english">🇬🇧 English</a>
 </p>
 
 ---
 
-<a id="deutsch"></a>
 
 ## 🇩🇪 Deutsch
 
@@ -60,11 +59,10 @@ Du musst kein Entwickler sein, um beizutragen.
 - **Ehrlich über den Stand:** Wir kennzeichnen klar, was Alpha ist, was erprobt wird und was noch Vision ist.
 - **Respektvoller Umgang:** siehe unseren [Verhaltenskodex](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
 
-<p align="right"><a href="#english">English ↓</a></p>
+<p align="right"><a href="#-english">English ↓</a></p>
 
 ---
 
-<a id="english"></a>
 
 ## 🇬🇧 English
 
@@ -96,4 +94,4 @@ You don't have to be a developer to contribute.
 - **Honest about the state:** we clearly mark what is alpha, what is being tested and what is still vision.
 - **Respectful conduct:** see our [Code of Conduct](https://github.com/nexus-united-species/.github/blob/main/CODE_OF_CONDUCT.md).
 
-<p align="right"><a href="#deutsch">Deutsch ↑</a></p>
+<p align="right"><a href="#-deutsch">Deutsch ↑</a></p>
