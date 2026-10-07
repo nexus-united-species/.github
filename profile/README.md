@@ -17,7 +17,8 @@
 <p align="center">
   <a href="https://www.nexus-terminal.org">Webseite / Website</a> ·
   <a href="https://community.nexus-terminal.org/">Community</a> ·
-  <a href="https://github.com/nexus-united-species/terminal/releases">OneApp Download</a> ·
+  <a href="https://github.com/nexus-united-species/oneapp">OneApp</a> ·
+  <a href="https://github.com/nexus-united-species/oneapp/releases">Download</a> ·
   <a href="https://github.com/nexus-united-species/terminal/discussions">Diskussionen / Discussions</a> ·
   <a href="https://t.me/NexusProjectOfficial">Telegram</a>
 </p>
@@ -39,17 +40,17 @@ In dieser Organisation entsteht die **offene technische Grundlage** des Projekts
 
 | Projekt | Worum es geht | Status |
 |---|---|---|
-| **OneApp** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/terminal/releases) · Quellcode wird für die Veröffentlichung vorbereitet |
+| **[OneApp](https://github.com/nexus-united-species/oneapp)** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Quellcode](https://github.com/nexus-united-species/oneapp) |
 | **HumHub-Erweiterungen** | Module, die wir für unsere eigene [Community-Plattform](https://community.nexus-terminal.org/) entwickelt haben – u. a. Gemeinschaftskarte, Übersetzen, Sprachnachrichten, Teilen und Mitgliedsanfragen. | in Vorbereitung |
-| **[terminal](https://github.com/nexus-united-species/terminal)** | Releases der OneApp, Diskussionen und Wiki. | aktiv |
+| **[terminal](https://github.com/nexus-united-species/terminal)** | Diskussionen, Wiki und Archiv älterer OneApp-Versionen. | aktiv |
 
 ### Mitmachen
 
 Du musst kein Entwickler sein, um beizutragen.
 
-- **Ausprobieren und Fehler melden:** Lade die OneApp herunter und beschreibe, was dir auffällt – in den [Diskussionen](https://github.com/nexus-united-species/terminal/discussions) oder über das [Fehlerformular](https://www.nexus-terminal.org/bugreport.html).
+- **Ausprobieren und Fehler melden:** Lade die [OneApp](https://github.com/nexus-united-species/oneapp/releases) herunter und beschreibe, was dir auffällt – in den [Diskussionen](https://github.com/nexus-united-species/terminal/discussions) oder über das [Fehlerformular](https://www.nexus-terminal.org/bugreport.html).
 - **Ideen einbringen:** Austausch, Kreise und gemeinsame Projekte finden in unserer [Community](https://community.nexus-terminal.org/) statt.
-- **Code beitragen:** Sobald die Repositories öffentlich sind, freuen wir uns über Pull Requests. Lies vorher den [Leitfaden für Beiträge](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md).
+- **Code beitragen:** Wir freuen uns über Pull Requests – zum Beispiel für die [OneApp](https://github.com/nexus-united-species/oneapp). Lies vorher den [Leitfaden für Beiträge](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md).
 - **Verstehen, worum es geht:** Der [Einstieg auf der Webseite](https://www.nexus-terminal.org/eLearning/index.html) erklärt N.E.X.U.S. Schritt für Schritt – ohne Fachsprache.
 
 ### Grundsätze
@@ -74,17 +75,17 @@ This organization hosts the **open technical foundation** of the project – dec
 
 | Project | What it is about | Status |
 |---|---|---|
-| **OneApp** | Self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app. Offline-first over Nostr, LAN and Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/terminal/releases) · source code is being prepared for publication |
+| **[OneApp](https://github.com/nexus-united-species/oneapp)** | Self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app. Offline-first over Nostr, LAN and Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Source code](https://github.com/nexus-united-species/oneapp) |
 | **HumHub extensions** | Modules we built for our own [community platform](https://community.nexus-terminal.org/) – including a community map, translation, voice messages, sharing and membership requests. | coming soon |
-| **[terminal](https://github.com/nexus-united-species/terminal)** | OneApp releases, discussions and wiki. | active |
+| **[terminal](https://github.com/nexus-united-species/terminal)** | Discussions, wiki and archive of older OneApp versions. | active |
 
 ### Get involved
 
 You don't have to be a developer to contribute.
 
-- **Try it and report bugs:** Download the OneApp and tell us what you notice – in the [Discussions](https://github.com/nexus-united-species/terminal/discussions) or via the [bug report form](https://nexus-terminal.org/en/bugreport.html).
+- **Try it and report bugs:** Download the [OneApp](https://github.com/nexus-united-species/oneapp/releases) and tell us what you notice – in the [Discussions](https://github.com/nexus-united-species/terminal/discussions) or via the [bug report form](https://nexus-terminal.org/en/bugreport.html).
 - **Share ideas:** Exchange, circles and joint projects happen in our [community](https://community.nexus-terminal.org/).
-- **Contribute code:** Once the repositories are public, pull requests are very welcome. Please read the [contribution guide](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md) first.
+- **Contribute code:** Pull requests are very welcome – for example for the [OneApp](https://github.com/nexus-united-species/oneapp). Please read the [contribution guide](https://github.com/nexus-united-species/.github/blob/main/CONTRIBUTING.md) first.
 - **Understand what it's about:** The [introduction on our website](https://nexus-terminal.org/en/eLearning/index.html) explains N.E.X.U.S. step by step – no jargon.
 
 ### Principles
