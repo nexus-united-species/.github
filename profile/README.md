@@ -41,7 +41,7 @@ In dieser Organisation entsteht die **offene technische Grundlage** des Projekts
 | Projekt | Worum es geht | Status |
 |---|---|---|
 | **[OneApp](https://github.com/nexus-united-species/oneapp)** | Selbstbestimmte Identität, verschlüsselter Chat, Gemeinschaften (Zellen), Dorfplatz und Liquid Democracy in einer Flutter-App. Offline-first über Nostr, LAN und Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Quellcode](https://github.com/nexus-united-species/oneapp) |
-| **HumHub-Erweiterungen** | Module, die wir für unsere eigene [Community-Plattform](https://community.nexus-terminal.org/) entwickelt haben – u. a. Gemeinschaftskarte, Übersetzen, Sprachnachrichten, Teilen und Mitgliedsanfragen. | in Vorbereitung |
+| **[HumHub-Erweiterungen](https://github.com/nexus-united-species/humhub-nexus)** | 14 Module, die wir für unsere eigene [Community-Plattform](https://community.nexus-terminal.org/) entwickelt haben – u. a. Gemeinschaftskarte, Übersetzen, Sprachnachrichten, Teilen, Hilfe und ein KI-Assistent. Für alle, die HumHub für ihre eigene Gemeinschaft nutzen. | Vorschau · [Quellcode](https://github.com/nexus-united-species/humhub-nexus) |
 | **[terminal](https://github.com/nexus-united-species/terminal)** | Archiv aus der Gründungsphase und älterer OneApp-Versionen. | archiviert |
 
 ### Mitmachen
@@ -80,7 +80,7 @@ This organization hosts the **open technical foundation** of the project – dec
 | Project | What it is about | Status |
 |---|---|---|
 | **[OneApp](https://github.com/nexus-united-species/oneapp)** | Self-sovereign identity, encrypted chat, communities ("cells"), a village square and liquid democracy in one Flutter app. Offline-first over Nostr, LAN and Bluetooth. | Alpha · [Download](https://github.com/nexus-united-species/oneapp/releases) · [Source code](https://github.com/nexus-united-species/oneapp) |
-| **HumHub extensions** | Modules we built for our own [community platform](https://community.nexus-terminal.org/) – including a community map, translation, voice messages, sharing and membership requests. | coming soon |
+| **[HumHub extensions](https://github.com/nexus-united-species/humhub-nexus)** | 14 modules we built for our own [community platform](https://community.nexus-terminal.org/) – including a community map, translation, voice messages, sharing, help and an AI assistant. For everyone who runs HumHub for their own community. | preview · [source code](https://github.com/nexus-united-species/humhub-nexus) |
 | **[terminal](https://github.com/nexus-united-species/terminal)** | Archive from the founding phase and of older OneApp versions. | archived |
 
 ### Get involved
